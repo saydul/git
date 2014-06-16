@@ -1,3 +1,3 @@
 <?php
-echo 'again';
+echo 'again ha ha';
 echo 'test'; exit;
